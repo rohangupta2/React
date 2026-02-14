@@ -1,0 +1,25 @@
+{
+  "name": "passwordgenerator",
+  "version": "1.0.0",
+  "description": "Making a password generator using react",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohangupta2/React.git"
+  },
+  "author": "Rohan Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohangupta2/React/issues"
+  },
+  "homepage": "https://github.com/rohangupta2/React#readme",
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
+  }
+}
